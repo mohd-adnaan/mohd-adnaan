@@ -1,4 +1,10 @@
 ### Hi there 👋
+# Mohammad Adnaan
+
+Contact:  
+📧 Email: iamadnaanmohd@gmail.com  
+💼 LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/mohammad-adnaan-51272024a/)  
+📁 GitHub: [GitHub Profile](https://github.com/mohd-adnaan)
 
 <!--
 **mohd-adnaan/mohd-adnaan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
