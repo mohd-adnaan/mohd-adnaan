@@ -3,7 +3,7 @@
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/mohd-adnaan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-adnaan-51272024a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:iamadnaanmohd@gmail.com)
-[![Leetcode]((https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://leetcode.com/Mohd_Adnaan/)
+[![LeetCode](https://img.shields.io/badge/-Leetcode-black?&logo=leetcode&logoColor=orange)](https://leetcode.com/Mohd_Adnaan/)
 [![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://developers.google.com/profile/u/100278702271990940869)
 
 <!--
@@ -20,10 +20,6 @@
 - 😄 Pronouns: he/him
 - ⚡ Learning and growing every day(1% better each day)
 - ⚡ Fun fact: Humanitarian and Gluten Intolerant
-- <!--- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
--->
 <br/>
 
 
