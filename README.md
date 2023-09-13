@@ -1,10 +1,10 @@
 <h2 align="left"> Hi I'm Mohd Adnaan<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="50"> </h2>
 
-[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/mohd-adnaan))
+[![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/mohd-adnaan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-adnaan-51272024a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:iamadnaanmohd@gmail.com)
-[![LeetCode]((https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://leetcode.com/mohd-adnaan/)
-[![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/developer?id=mohd+adnan&hl=en_US&gl=US)
+[![LeetCode]((https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06))](https://leetcode.com/Mohd_Adnaan/)
+[![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://developers.google.com/profile/u/100278702271990940869)
 
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=mohd-adnaan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
@@ -15,24 +15,42 @@
 
 -->
 
-- 🔭 I’m currently pursuing a Bachelor's in CS ...
+- 🔭 I’m currently pursuing a Bachelor's in CS
 - 🌱 I’m currently learning everything
 <!--- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 -->
 - 😄 Pronouns: he/him
-- - ⚡ Learning and growing every day(1% better each day)
+- ⚡ Learning and growing every day(1% better each day)
 - ⚡ Fun fact: Humanitarian and Gluten Intolerant
 <br/>
-[![](https://komarev.com/ghpvc/?username=mohd-adnaan)]
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-adnaan&layout=compact&hide=html&theme=blue-green" alt="mohd-adnaan" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-adnaan&layout=compact&hide=html&theme=tokyonight" alt="mohd-adnaan" />
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-adnaan&theme=tokyonight" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohd-adnaan&show_icons=true&theme=blue-green" alt="mohd-adnaan" />
 
 <br />
 <br/>
+ <table>
+  <tr>
+    <td>
+
+      
+ <img src="https://github-readme-stats.vercel.app/api?username=mohd-adnaan&show_icons=true&theme=tokyonight" alt="mohd-adnaan" />
+   </td>
+
+
+   <td>  
+
+
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohd-adnaan&theme=tokyonight" />
+     </td>
+      </tr>
+  </table>
 
 ### Languages Used
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -47,7 +65,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/midnightbot/midnightbot/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://github.com/mohd-adnaan/mohd-adnaan/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </p>
 
 
@@ -60,3 +78,8 @@
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 -->
+
+
+### Visitor Count
+
+[![Visitor Count](https://profile-counter.glitch.me/{mohd-adnaan}/count.svg)]
