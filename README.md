@@ -16,10 +16,8 @@
 -->
 
 - 🔭 I’m currently pursuing a Bachelor's in CS
-- 🌱 I’m currently learning everything
-- 😄 Pronouns: he/him
 - ⚡ Learning and growing every day(1% better each day)
-- ⚡ Fun fact: Humanitarian and Gluten & Lactose Intolerant
+- 📍 Fun fact: Humanitarian and Gluten & Lactose Intolerant
 <br/>
 
 
