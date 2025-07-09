@@ -4,8 +4,6 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-adnaan-51272024a/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?&logo=Gmail&logoColor=white)](mailto:iamadnaanmohd@gmail.com)
 [![LeetCode](https://img.shields.io/badge/-Leetcode-black?&logo=leetcode&logoColor=orange)](https://leetcode.com/Mohd_Adnaan/)
-[![Google Play](https://img.shields.io/badge/-Google%20Play-grey?&logo=googleplay&logoColor=white)](https://developers.google.com/profile/u/100278702271990940869)
-
 <!--
 <img src="https://github-readme-stats.vercel.app/api?username=mohd-adnaan&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 -->
@@ -15,7 +13,7 @@
 
 -->
 
-- 🔭 I’m currently pursuing a Bachelor's in CS
+- 🔭 Software Engineer
 - ⚡ Learning and growing every day(1% better each day)
 - 📍 Fun fact: Humanitarian and Gluten & Lactose Intolerant
 <br/>
