@@ -1,4 +1,4 @@
-<h2 align="left"> Hi I'm Mohd Adnaan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="55"> </h2>
+<h2 align="left"> Hi I'm Mohammad Adnaan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="55"> </h2>
 
 [![Github](https://img.shields.io/badge/-Github-000?&logo=Github&logoColor=white)](https://github.com/mohd-adnaan)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mohammad-adnaan-51272024a/)
