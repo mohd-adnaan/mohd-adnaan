@@ -67,7 +67,8 @@
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 -->
 
-
+<!--
 ### Visitor Count
 
 ![Visitor Count](https://profile-counter.glitch.me/{mohd-adnaan}/count.svg)
+-->
