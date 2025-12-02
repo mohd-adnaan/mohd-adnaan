@@ -11,12 +11,12 @@
 <br/>
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-adnaan&layout=compact&hide=html&theme=tokyonight" alt="mohd-adnaan" />
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohd-adnaan&layout=compact&hide=html&theme=tokyonight" alt="mohd-adnaan" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=mohd-adnaan&show_icons=true&theme=tokyonight" alt="mohd-adnaan" />
 
 <br />
-<br/>
+<br/> -->
 
 
 ### Languages Used
