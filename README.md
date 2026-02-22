@@ -6,8 +6,6 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white)](https://www.instagram.com/adnaan.this.side/)
 
 -  msc @mcgill university
--  learning and growing every day(1% better each day)
--  fun fact: humanitarian and gluten & lactose Intolerant
 <br/>
 
 
